@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/carnaval-pudding-frontend/static/css/main.332e9329.css",
+    "main.js": "/carnaval-pudding-frontend/static/js/main.b39a8523.js",
+    "static/js/787.c6caf7b9.chunk.js": "/carnaval-pudding-frontend/static/js/787.c6caf7b9.chunk.js",
+    "static/media/confetes.jpg": "/carnaval-pudding-frontend/static/media/confetes.29daa3b5f70fd9962001.jpg",
+    "static/media/blocoderua.jpg": "/carnaval-pudding-frontend/static/media/blocoderua.0237ca994fac4eb47252.jpg",
+    "static/media/pessoasjovens.jpg": "/carnaval-pudding-frontend/static/media/pessoasjovens.22d2284a821a19f6cb9e.jpg",
+    "static/media/mascaraheader.png": "/carnaval-pudding-frontend/static/media/mascaraheader.2b2781f8f9aef1751189.png",
+    "static/media/graficoteste.png": "/carnaval-pudding-frontend/static/media/graficoteste.5853f300be3053918399.png",
+    "index.html": "/carnaval-pudding-frontend/index.html",
+    "main.332e9329.css.map": "/carnaval-pudding-frontend/static/css/main.332e9329.css.map",
+    "main.b39a8523.js.map": "/carnaval-pudding-frontend/static/js/main.b39a8523.js.map",
+    "787.c6caf7b9.chunk.js.map": "/carnaval-pudding-frontend/static/js/787.c6caf7b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332e9329.css",
+    "static/js/main.b39a8523.js"
+  ]
+}
