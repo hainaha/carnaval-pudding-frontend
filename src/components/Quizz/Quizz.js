@@ -26,7 +26,7 @@ function Quizz() {
     const formState = forms['estado_civil'];
     const formRent = forms['faixa_renda'];
     const formButton = forms.formButton;
-    if (formGen.value && formAge.value && formState.value && formRent.value && formAge >= 14 && formAge <= 150)
+    if (formGen.value && formAge.value && formState.value && formRent.value && formAge.value >= 14 && formAge.value <= 150)
       formButton.disabled = false;
     else
       formButton.disabled = true;
